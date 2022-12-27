@@ -1,0 +1,15 @@
+C:\home\user\kazmatsu\develop\GitHub\kazmatsu\WBp1\bin\Debug\net7.0\WBp1.exe
+C:\home\user\kazmatsu\develop\GitHub\kazmatsu\WBp1\bin\Debug\net7.0\WBp1.deps.json
+C:\home\user\kazmatsu\develop\GitHub\kazmatsu\WBp1\bin\Debug\net7.0\WBp1.runtimeconfig.json
+C:\home\user\kazmatsu\develop\GitHub\kazmatsu\WBp1\bin\Debug\net7.0\WBp1.dll
+C:\home\user\kazmatsu\develop\GitHub\kazmatsu\WBp1\bin\Debug\net7.0\WBp1.pdb
+C:\home\user\kazmatsu\develop\GitHub\kazmatsu\WBp1\obj\Debug\net7.0\WBp1.csproj.AssemblyReference.cache
+C:\home\user\kazmatsu\develop\GitHub\kazmatsu\WBp1\obj\Debug\net7.0\WBp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\home\user\kazmatsu\develop\GitHub\kazmatsu\WBp1\obj\Debug\net7.0\WBp1.AssemblyInfoInputs.cache
+C:\home\user\kazmatsu\develop\GitHub\kazmatsu\WBp1\obj\Debug\net7.0\WBp1.AssemblyInfo.cs
+C:\home\user\kazmatsu\develop\GitHub\kazmatsu\WBp1\obj\Debug\net7.0\WBp1.csproj.CoreCompileInputs.cache
+C:\home\user\kazmatsu\develop\GitHub\kazmatsu\WBp1\obj\Debug\net7.0\WBp1.dll
+C:\home\user\kazmatsu\develop\GitHub\kazmatsu\WBp1\obj\Debug\net7.0\refint\WBp1.dll
+C:\home\user\kazmatsu\develop\GitHub\kazmatsu\WBp1\obj\Debug\net7.0\WBp1.pdb
+C:\home\user\kazmatsu\develop\GitHub\kazmatsu\WBp1\obj\Debug\net7.0\WBp1.genruntimeconfig.cache
+C:\home\user\kazmatsu\develop\GitHub\kazmatsu\WBp1\obj\Debug\net7.0\ref\WBp1.dll
