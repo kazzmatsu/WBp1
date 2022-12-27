@@ -11,6 +11,10 @@ namespace WildBaseProject1
         }
         internal void ClsMain ( )
         {
+            local_func1();
+        }
+        internal void local_func1()
+        {
             var msg = "Checks";
             Console.WriteLine($"{msg}");
         }
